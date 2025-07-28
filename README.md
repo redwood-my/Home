@@ -33,7 +33,7 @@ Then navigate to `http://localhost:8000` in your browser.
 
 ## Contact
 
-For inquiries about Redwood Labs, email: admin@redwood.my
+For inquiries about Redwood Labs, email labs@redwood.my.
 
 ## License
 
