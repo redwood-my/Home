@@ -1,6 +1,6 @@
 # Home
 
-Test. This is the official website for Redwood Labs, a full-stack AI company building specialized agents for businesses.
+This is the official website for Redwood Labs, a full-stack AI company building specialized agents for businesses.
 
 ## Overview
 
